@@ -34,6 +34,8 @@ pip install -r requirements.txt
 conda activate covid_detection 
 ```
 
+* After creating an environment go to this [drive](https://drive.google.com/drive/u/0/folders/10auHKxY02juCEINIbetSp1smG-oQtWgR) link and download 'vgg_model' file and place it in same 'covid_detection' folder. This was done to copy the model which will do the predictions. Since this model was large in size it could not be hosted in github.
+
 * And finally run the project with
 ```python app.py```
 
