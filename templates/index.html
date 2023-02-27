@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>base</title>
+</head>
+
+<style>
+body {
+  background-image: url('/static/covid2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+
+<body>
+
+	<center>
+
+
+		<h1>Welcome to the Covid Predictions</h1>
+		<h2 style = "background-repeat: round;">Please upload X-Ray images of you chest</h2>
+
+
+	
+	
+	<form action="prediction" method="POST" enctype="multipart/form-data">
+		<input type="file" name='img'>
+		<input type="submit" name='btn'>
+
+	</form>
+
+	
+
+		<!-- <h2> <img src="/static/covid5.jpg" alt="" width="460" height="345" /> </h2> -->
+
+	</center>
+
+</body>
+</html>
