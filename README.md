@@ -51,7 +51,7 @@ conda activate covid_detection
 * If Prediction is positive
 ![image](https://user-images.githubusercontent.com/88246010/221746882-83ee3d79-a390-4a96-8a87-1d77b870b22c.png)
 
-*If Prediction is negative
+* If Prediction is negative
 ![image](https://user-images.githubusercontent.com/88246010/221746996-61fcd9a4-5b28-425a-9136-f18e1da864aa.png)
 
 **Further Improvements**
