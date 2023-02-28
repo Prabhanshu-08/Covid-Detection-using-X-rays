@@ -44,15 +44,15 @@ conda activate covid_detection
 **DEMO**
 
 * Home Page
-![image](https://user-images.githubusercontent.com/88246010/221581347-f3e2051a-eda9-4913-a2ca-a013e4d1af5e.png)
+![image](https://user-images.githubusercontent.com/88246010/221746732-ba4dc51d-44e7-401c-a01f-4a7c1913f9aa.png)
 
 **Note** : Sometime after clicking submit button page might throw some error just reload the page
 
 * If Prediction is positive
-![image](https://user-images.githubusercontent.com/88246010/221581798-a35abe13-3c5e-4ef1-ad71-4af61ea2cb5e.png)
+![image](https://user-images.githubusercontent.com/88246010/221746882-83ee3d79-a390-4a96-8a87-1d77b870b22c.png)
 
 *If Prediction is negative
-![image](https://user-images.githubusercontent.com/88246010/221582065-39455d21-8805-4f2e-ae8f-c3c3be202dcd.png)
+![image](https://user-images.githubusercontent.com/88246010/221746996-61fcd9a4-5b28-425a-9136-f18e1da864aa.png)
 
 **Further Improvements**
 1. The UI of this project is too simple more editing cane be done to make it look more attractive.
