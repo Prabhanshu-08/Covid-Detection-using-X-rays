@@ -29,7 +29,7 @@ CV2
 * Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
 
 ```
-conda create -n covid_detection python=3.6.12
+conda create -n covid_detection python=3.8.8
 pip install -r requirements.txt
 conda activate covid_detection 
 ```
