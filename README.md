@@ -2,7 +2,8 @@
 
 
 
-![CD1](https://user-images.githubusercontent.com/88246010/222776676-9702a102-a087-4773-9c3d-dbed3bde8434.gif)
+![CD2](https://user-images.githubusercontent.com/88246010/222777237-6df3537d-1116-4233-a2ba-a81d415a261f.gif)
+
 
 
 It is a simple DL project to detect covid through X-ray images of chest. The model has been trained on images of chest x-rays and dataset can be found in kaggle.
