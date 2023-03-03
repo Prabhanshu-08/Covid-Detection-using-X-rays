@@ -1,5 +1,10 @@
 **Covid Detection Using X-Rays**
 
+
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/88246010/222775840-8261520f-07a4-4392-877e-409285a96d16.gif)
+
+
 It is a simple DL project to detect covid through X-ray images of chest. The model has been trained on images of chest x-rays and dataset can be found in kaggle.
 
 **Data Source**
