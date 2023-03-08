@@ -18,13 +18,13 @@ The COVID-19 pandemic has had a profound impact on the world, affecting millions
 
 **Built with**
 
-Matplotlib,
-Pandas,
-Numpy,
-Seaborn,
-Tensorflow,
-Keras,
-CV2
+1. Matplotlib
+2. Pandas
+3. Numpy
+4. Seaborn
+5. Tensorflow
+6. Keras
+7. CV2
 
 **Usage**
 
