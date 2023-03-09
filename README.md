@@ -2,8 +2,7 @@
 
 
 
-![CD2](https://user-images.githubusercontent.com/88246010/222777237-6df3537d-1116-4233-a2ba-a81d415a261f.gif)
-
+![CD11](https://user-images.githubusercontent.com/88246010/224085247-7604cb1a-1d99-4870-aac0-7d10d1560ad8.gif)
 
 
 It is a simple DL project to detect covid through X-ray images of chest. The model has been trained on images of chest x-rays and dataset can be found in kaggle.
@@ -55,7 +54,7 @@ conda activate covid_detection
 **Note** : Sometime after clicking submit button page might throw some error just reload the page
 
 * If Prediction is positive
-![image](https://user-images.githubusercontent.com/88246010/221746882-83ee3d79-a390-4a96-8a87-1d77b870b22c.png)
+![image](https://user-images.githubusercontent.com/88246010/224083440-ac9ee0e7-bdc9-4a53-a0a0-d693504b2467.png)
 
 * If Prediction is negative
 ![image](https://user-images.githubusercontent.com/88246010/221746996-61fcd9a4-5b28-425a-9136-f18e1da864aa.png)
